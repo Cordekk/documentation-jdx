@@ -18,17 +18,4 @@ flowchart TB
     hide --> eventGateway[[Событийный шлюз]]
     eventGateway -->|Заяц обнаружен| catchHare[Подобрать добычу] --> end2([Конец процесса])
     eventGateway -->|Таймаут 8 часов| returnEmpty[Вернуться домой] --> end3([Конец процесса])
-    
-    %% Координатные привязки
-    linkStyle 0 stroke:#555,stroke-width:2px
-    linkStyle 1 stroke:#555,stroke-width:2px
-    linkStyle 2 stroke:#555,stroke-width:2px
-    linkStyle 3 stroke:#555,stroke-width:2px
-    linkStyle 4 stroke:#555,stroke-width:2px
-    linkStyle 5 stroke:#555,stroke-width:2px
-    linkStyle 6 stroke:#555,stroke-width:2px
-    linkStyle 7 stroke:#555,stroke-width:2px
-    linkStyle 8 stroke:#555,stroke-width:2px
-    linkStyle 9 stroke:#555,stroke-width:2px
-    linkStyle 10 stroke:#555,stroke-width:2px
 ```
