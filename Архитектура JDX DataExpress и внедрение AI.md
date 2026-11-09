@@ -6,7 +6,7 @@
 **Платформа:** Data Express (mydataexpress.ru)  
 **СУБД:** Firebird 5.0  
 **Язык скриптов:** RemObjects Pascal Script  
-**Автор:** Аналитик
+**Автор:** Cordek
 
 ---
 
